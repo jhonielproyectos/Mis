@@ -1,0 +1,25 @@
+# Lista de elementos con URL y fecha de caducidad
+
+# Nombre: Elemento 1
+# ID: 001
+# Tiempo de Caducidad: 2025-12-31
+# URL: https://ejemplo1.com
+http://ejemplo1.com
+
+# Nombre: Elemento 2
+# ID: 002
+# Tiempo de Caducidad: 2025-11-30
+# URL: https://ejemplo2.com
+http://ejemplo2.com
+
+# Nombre: Elemento 3
+# ID: 003
+# Tiempo de Caducidad: 2025-10-15
+# URL: https://ejemplo3.com
+http://ejemplo3.com
+
+# Nombre: Elemento 4
+# ID: 004
+# Tiempo de Caducidad: 2025-09-10
+# URL: https://ejemplo4.com
+http://ejemplo4.co
